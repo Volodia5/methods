@@ -1,0 +1,7 @@
+D:\С# программирование\dossiers\dossiers\bin\Debug\dossiers.exe.config
+D:\С# программирование\dossiers\dossiers\bin\Debug\dossiers.exe
+D:\С# программирование\dossiers\dossiers\bin\Debug\dossiers.pdb
+D:\С# программирование\dossiers\dossiers\obj\Debug\dossiers.csprojAssemblyReference.cache
+D:\С# программирование\dossiers\dossiers\obj\Debug\dossiers.csproj.CoreCompileInputs.cache
+D:\С# программирование\dossiers\dossiers\obj\Debug\dossiers.exe
+D:\С# программирование\dossiers\dossiers\obj\Debug\dossiers.pdb
