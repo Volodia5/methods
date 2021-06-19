@@ -1,0 +1,7 @@
+D:\С# программирование\methodShuffle\methodShuffle\bin\Debug\methodShuffle.exe.config
+D:\С# программирование\methodShuffle\methodShuffle\bin\Debug\methodShuffle.exe
+D:\С# программирование\methodShuffle\methodShuffle\bin\Debug\methodShuffle.pdb
+D:\С# программирование\methodShuffle\methodShuffle\obj\Debug\methodShuffle.csprojAssemblyReference.cache
+D:\С# программирование\methodShuffle\methodShuffle\obj\Debug\methodShuffle.csproj.CoreCompileInputs.cache
+D:\С# программирование\methodShuffle\methodShuffle\obj\Debug\methodShuffle.exe
+D:\С# программирование\methodShuffle\methodShuffle\obj\Debug\methodShuffle.pdb

@@ -1,0 +1,7 @@
+D:\С# программирование\methodsHomeWork\methodsHomeWork\bin\Debug\methodsHomeWork.exe.config
+D:\С# программирование\methodsHomeWork\methodsHomeWork\bin\Debug\methodsHomeWork.exe
+D:\С# программирование\methodsHomeWork\methodsHomeWork\bin\Debug\methodsHomeWork.pdb
+D:\С# программирование\methodsHomeWork\methodsHomeWork\obj\Debug\methodsHomeWork.csprojAssemblyReference.cache
+D:\С# программирование\methodsHomeWork\methodsHomeWork\obj\Debug\methodsHomeWork.csproj.CoreCompileInputs.cache
+D:\С# программирование\methodsHomeWork\methodsHomeWork\obj\Debug\methodsHomeWork.exe
+D:\С# программирование\methodsHomeWork\methodsHomeWork\obj\Debug\methodsHomeWork.pdb
